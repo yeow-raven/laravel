@@ -167,3 +167,4 @@ Route::post('/pdf/store', [UploadController::class, 'pdf_store'])->name('pdf.sto
 Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+//acaraselesai22

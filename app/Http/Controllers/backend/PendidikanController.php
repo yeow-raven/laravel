@@ -6,6 +6,7 @@ use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\DB;
 
+
 class PendidikanController extends Controller
 {
     /**
@@ -74,3 +75,4 @@ class PendidikanController extends Controller
         return redirect()->route('pendidikan.index')->with('success', 'Data pendidikan berhasil dihapus!');
     }
 }
+//14-16

@@ -10,3 +10,4 @@ class DashboardController extends Controller
         return view('backend.dashboard');
     }
 }
+//8

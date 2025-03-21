@@ -20,4 +20,3 @@ class DetailProfileSeeder extends Seeder
         ]);
     }
 }
-//databaslaravel

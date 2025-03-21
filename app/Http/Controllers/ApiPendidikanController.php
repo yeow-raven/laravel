@@ -51,3 +51,4 @@ class ApiPendidikanController extends Controller
         return response()->json(['message' => 'Pendidikan berhasil dihapus'], 201);
     }
 }
+//20-22

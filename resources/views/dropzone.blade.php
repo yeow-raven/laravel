@@ -1,5 +1,5 @@
 <html>
-
+//20-22
 <head>
     <title>Dropzone Image Upload in Laravel</title>
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" rel="stylesheet">

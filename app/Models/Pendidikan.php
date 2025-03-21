@@ -11,3 +11,4 @@ class Pendidikan extends Model
    protected $primaryKey = 'id';
    protected $fillable = ['nama', 'tingkatan','tahun_masuk','tahun_keluar',];
 }
+//20-22

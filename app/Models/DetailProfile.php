@@ -8,3 +8,4 @@ class DetailProfile extends Model
 {
     //
 }
+//6
